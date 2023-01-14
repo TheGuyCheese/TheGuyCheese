@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheGuyCheese
-- 👀 I’m interested in C, C++ and Web Development.
+- 👀 I’m interested in C, C++, Python and Web Development.
 - 🌱 I’m currently learning C++ and React
 - 💞️ I’m looking to collaborate on fun and new projects.
 - 📫 Email me. We can learn from each other.

@@ -2,7 +2,7 @@
 <h3 align="center">I am an AI Developer</h3>
 
 - 📫 How to reach me **csaditya038@gmail.com**
-- 👨‍💻 All of my projects are available at [velcorum.vercel.app](velcorum.vercel.app)
+- 👨‍💻 All of my projects are available at [velcorum.vercel.app](https://velcorum.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
